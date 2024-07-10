@@ -1,0 +1,13 @@
+torch
+torchvision
+fairscale
+fire
+blobfile
+accelerate
+protobuf
+tensorboard
+datasets==2.13.1
+git+https://github.com/huggingface/transformers
+peft @ git+https://github.com/huggingface/peft.git
+trl @ git+https://github.com/lvwerra/trl.git
+scipy
